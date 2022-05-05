@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>this is my new web</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+    <style>
+        .bg{
+            background-color: lightblue;
+            color: black;
+            font-family: sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div class="bg">
+        <h1>WebPage</h1>
+
+    </div>
+    
+</body>
+</html>
+
+
+
+    <p><div class="topnav">
+        <a class="active" href="#home">Home</a>
+        <a href="#news">News</a>
+        <a href="#contact">Contact</a>
+        <a href="#about">About</a>
+      </div>
+      <p>A web page (or webpage) is a hypertext document on the World Wide Web. Web pages
+         are delivered by a web server to the user and displayed in a web browser.
+         A website consists of many web pages linked together under a common domain name. The 
+        name "web page" is a metaphor of paper pages bound together into a book.</p>
+  </div>
+  <title>Simple Web Page</title>  
+    </head>  
+    <body>  
+        <centre>  
+            <h2 style="color: blue">  
+                <i>THIS IS MY FIRST WEB PAGE</i>  
+            </h2>  
+            <img src="web page" height="150px" width="150px" />    
+         </centre>  
+        </body
+        
+      </p> A theme is the foundation for the complete design of a website.
+         This includes things like typography, color palettes, headers and
+          footers, backgrounds, and page layouts</p> 
+    </html>  
